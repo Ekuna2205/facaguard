@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FaceGuard AI
 
 Face detection, quality assessment, active-liveness challenges and a presentation-attack-detection (PAD) workflow, with a
@@ -216,3 +217,7 @@ were not exercised.
   (`backend/app/core/i18n.py`, dictionary and number patterns in `backend/app/locales/mn.py`). Unknown sentences stay English.
   Run the backend tests with `I18N_REPORT_MISSING=missing.txt` to list sentences that still need a translation.
 - Stored results keep the explanation in the language that was active when the verification ran.
+=======
+# facaguard
+ai
+>>>>>>> fbbdfabd19d6f7953419652fa8dea77c1a5bab7a
